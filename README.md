@@ -2,10 +2,10 @@
 Create a To do list using react
 
 
-Run:
+Run: Copy repository files into the same folder and then drag .html into browser.
 
 
-Roadmap of future improvements:
+Roadmap of future improvements: Allow user to label and keep multiple lists
 
 
 <img src="/ToDo.png">
